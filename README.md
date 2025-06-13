@@ -14,7 +14,6 @@ IITG_SA25_Hackathon/
 │       └── summer-analytics-mid-hackathon/
 │           ├── hacktrain.csv   # Training dataset
 │           └── hacktest.csv    # Testing dataset
-├── iitg_sa_hackathon.ipynb     # Initial notebook
 ├── iitg_sa_hackathon_final.ipynb  # Final notebook with highest accuracy
 ├── submission.csv              # Final predictions
 └── README.md                   # Project documentation (this file)
