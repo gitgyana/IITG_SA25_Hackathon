@@ -1,10 +1,10 @@
-# 🌱 [Summer Analytics First Hackathon](https://www.kaggle.com/competitions/summer-analytics-mid-hackathon)
+# [Summer Analytics First Hackathon](https://www.kaggle.com/competitions/summer-analytics-mid-hackathon)
 
 This repository contains the solution for the first course hackathon of Summer Analytics 2025 organized by Consulting & Analytics Club (from IIT Guwahati) and GeeksforGeeks (GFG). The project focuses on classifying land cover types based on NDVI (Normalized Difference Vegetation Index) time series data using advanced feature engineering and ensemble modeling techniques.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 IITG_SA25_Hackathon/
@@ -21,7 +21,7 @@ IITG_SA25_Hackathon/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone the repo:
    ```
@@ -41,7 +41,7 @@ IITG_SA25_Hackathon/
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Classify regions based on temporal NDVI satellite data into one of the predefined land cover classes with high accuracy. We achieve this using:
 
@@ -51,7 +51,7 @@ Classify regions based on temporal NDVI satellite data into one of the predefine
 
 ---
 
-## 💡 Features Extracted
+## Features Extracted
 
 * **Basic statistics:** mean, std, min, max, median
 * **Spread measures:** IQR, range, skewness, kurtosis
@@ -61,21 +61,21 @@ Classify regions based on temporal NDVI satellite data into one of the predefine
 
 ---
 
-## 🧠 Models
+## Models
 
 * `XGBClassifier` — base classifier
 * (Optional in extension) `RandomForestClassifier` + `LogisticRegression` — stacked ensemble
 
 ---
 
-## 📊 Performance
+## Performance
 
-* ✅ **Validation Accuracy:** **94.56%**
-* 📄 Final predictions saved in `submission.csv`
+* **Validation Accuracy:** **94.56%**
+* Final predictions saved in `submission.csv`
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 Pre-installed on most Kaggle/Jupyter setups:
 
@@ -89,7 +89,7 @@ xgboost
 
 ---
 
-## 📬 Contact
+## Contact
 
 * **Name:** Gyana Priyadarshi
 * **Email:** [gyana.career@gmail.com](mailto:gyana.career@gmail.com)
